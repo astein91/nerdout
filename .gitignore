@@ -1,0 +1,5 @@
+# Gas Town runtime artifacts
+.runtime/
+
+# Beads redirect (points to rig-level beads)
+.beads/
